@@ -10,7 +10,7 @@ offset=20
 imgSize=300
 counter=0
 
-folder="C:/Users/Vishnu/Documents/College/5th Sem/Projects/Hand Gesture Recognition/data/A"
+folder="C:/Users/Vishnu/Documents/College/5th Sem/Projects/Hand Gesture Recognition/data/thank you"
 
 while True:
     success,img=cap.read()
