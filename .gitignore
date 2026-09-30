@@ -1,2 +1,4 @@
 data/
-hand_landmarker.task
+venv/
+__pycache__/
+.vscode/
